@@ -1,1 +1,1 @@
-# ☀️ Solar System ☀️ #
+# 🌞 Solar System 🌞 #
