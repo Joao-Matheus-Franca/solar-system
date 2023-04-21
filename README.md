@@ -6,7 +6,7 @@
 <a href="https://www.betrybe.com/">Trybe</a>
 ## 🎯 Objetivos: 
 * Aplicar o versionamento de códigos com o uso dos princípios do Git e GitHub 
-* Dar os primeiros passos no uso do React para construção de aplicações Web
+* Dar os primeiros passos no uso do <a href="https://react.dev/">React</a> para construção de aplicações Web
 ## 🖥️ Tecnologias:
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=40 alt="Git icon"/>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height=40 alt="Github icon"/>
